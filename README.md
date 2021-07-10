@@ -5,5 +5,6 @@ The dataset that is being used is the Average Rainfall in UK(2010-2019) from kag
 This data consists of year, month and the period of Uk for the 10 years. Prediction has been made looking at these factors.
 
 The algorithm used for the prediction is 'Random Forest'. The Random forest uses multiple decision trees and chooses the optimum result by selecting the majority.
+Since we are working on multiple decision trees there is a chance of less over-fitting. Its accuracy is high and we can estimate missing values
 
-![image](https://user-images.githubusercontent.com/54113500/125158437-d29c5b00-e18e-11eb-96a8-b7a469c0f408.png)
+About the datset
