@@ -8,13 +8,13 @@ This data consists of year, month and the period of Uk for the 10 years. Predict
 
 Our dataset consist of 4 columns- Year, Type of peroid, Period(month) and Avg rainfall. The average rainfall is the rainfall over the peroid in millimeters. There are two categorical columns - Type of peroid and Peroid; which is encoded into numeric using the labelencoder() for preprocessing. 
 
-##Algorithm 
+## Algorithm 
 
 ![image](https://user-images.githubusercontent.com/54113500/125158683-47bc6000-e190-11eb-9deb-e68f49ba4c5d.png)
 
 The algorithm used for the prediction is ****'Random Forest'****. Since our data is labelled, we have used the supervised algorithm.The Random forest is a supervised algorithm which uses multiple decision trees, and chooses the optimum result by selecting the majority.Since we are working on multiple decision trees there is a chance of less over-fitting. Its accuracy is high and we can estimate missing values. But, one of the biggest advantages of random forest is its versatility. It can be used for both regression and classification tasks
 
-###Metrics
+### Metrics
 
 ![image](https://user-images.githubusercontent.com/54113500/125158790-f95b9100-e190-11eb-838e-da75fe56b2f7.png)
 
