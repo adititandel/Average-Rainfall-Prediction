@@ -14,3 +14,8 @@ Algorithm used
 
 The algorithm used for the prediction is 'Random Forest'. Since our data is labelled, we have used the supervised algorithm.The Random forest is a supervised algorithm which uses multiple decision trees, and chooses the optimum result by selecting the majority.Since we are working on multiple decision trees there is a chance of less over-fitting. Its accuracy is high and we can estimate missing values. But, one of the biggest advantages of random forest is its versatility. It can be used for both regression and classification tasks
 
+Metrics
+
+![image](https://user-images.githubusercontent.com/54113500/125158725-97029080-e190-11eb-8b3d-b03e8e6cb111.png)
+
+Metrics are used to analyze the model. Its show how good is our model's perfomance. Three metrics Mean Absolute Error, Mean Square Error and Root Mean Square Error have been used in this task. 
