@@ -4,7 +4,7 @@ Rainfall Prediction is the application of science and technology to predict the 
  ## Dataset
  
 The dataset that is being used is the Average Rainfall in UK(2010-2019) from kaggle.
-This data consists of year, month and the period of Uk for the 10 years. Prediction has been made looking at these factors.
+This data consists of year, month and the period of UK for the 10 years. Prediction has been made looking at these factors.
 
 ![image](https://user-images.githubusercontent.com/54113500/125158488-2eff7a80-e18f-11eb-89cf-bbd8ba559520.png)
 
